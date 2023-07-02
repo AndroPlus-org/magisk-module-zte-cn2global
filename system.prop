@@ -1,0 +1,13 @@
+ro.product.locale=en-US
+
+#ro.vendor.feature.zte_region_name=China
+#ro.vendor.feature.zte_feature_gms_international=false
+#ro.vendor.feature.zte_feature_gms_china=true
+#ro.vendor.feature.zte_feature_gms_china_special=true
+ro.vendor.feature.zte_strategy_disable_gms=false
+
+# Disable double tap to wallet
+ro.vendor.feature.zte_feature_double_click_power_wallet=false
+
+# Take it easy, doze
+ro.vendor.feature.zte_feature_doze_speed_up=false

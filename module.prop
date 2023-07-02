@@ -1,0 +1,7 @@
+id=zte-nubia-myos-conv
+name=Patch for ZTE nubia MyOS China
+version=v13
+versionCode=13
+author=AndroPlus
+description=ZTE nubia MyOS China to Global
+updateJson=https://raw.githubusercontent.com/AndroPlus-org/magisk-module-zte-cn2global/master/update.json

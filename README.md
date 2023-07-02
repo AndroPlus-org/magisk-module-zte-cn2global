@@ -1,0 +1,26 @@
+## Translation Patch for ZTE nubia MyOS China
+
+This is a Magisk module to add translation to the Chinese version of MyOS.  
+This module also enables Google Location history and Nearby share.
+
+Download magisk-module-zte-cn2global.zip, install this module from the Modules tab of the Magisk app and restart, then you will be able to select your language in the language settings.
+
+## Prohibitions
+
+For reasons of support, etc., commercial use of this module is prohibited. (except in cases of special permission).  
+(e.g.: Selling or exhibiting device contains this module, selling articles on installation procedures for a fee, etc.)
+
+In case of commercial use, 50% of the profit will be collected.
+
+## 日本語説明
+中国版 ZTE nubia MyOS に日本語翻訳を追加する Magisk モジュールです。    
+Google ロケーション履歴やニアバイシェアも有効化されます。
+
+magisk-module-zte-cn2global.zip をダウンロードして Magisk アプリのモジュールタブからこのモジュールをインストール・再起動することで、言語設定で日本語が選べるようになります。
+
+## 禁止事項
+
+サポート等の都合上、このモジュールの商用利用を禁じます。(特別に許可された場合を除く)  
+例: このモジュールで日本語化した状態の端末を販売・出品する、導入手順の記事を全文無料公開せずに有料販売するなど
+
+商用利用された場合、利益の50%を徴収させていただきます。
